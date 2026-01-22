@@ -54,7 +54,7 @@ body{
 }
 .image img{
     width:100%;
-   max-width:400px;
+   max-width:450px;
    display: block;
    margin: auto;
 }
@@ -62,11 +62,11 @@ body{
 .hero{
     height: calc(100vh - 90px);
     display:grid;
-    grid-template-columns:1.1fr 0.9fr;
+    grid-template-columns:1fr 1fr;
     align-items: center;
-    padding:0 40px;
+    padding:0 30px;
      background-color: #fff;
-     gap:32px;
+     gap:20px;
       /* box-shadow: 0 4px 10px rgba(0,0,0,0.5); */
 }
 .btn{
